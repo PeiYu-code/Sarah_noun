@@ -22,6 +22,8 @@ const wordBank = [
   { eng: "car", ch: "車子(n.)" },
   { eng: "table", ch: "桌子(n.)" },
   { eng: "chair", ch: "椅子(n.)" },
+  { eng: "child", ch: "小孩(n.)" },
+  { eng: "kid", ch: "小孩(n.)" }
 ];
 
 // 2. 遊戲狀態與記錄變數
