@@ -17,7 +17,11 @@ const wordBank = [
   { eng: "she", ch: "她" },
   { eng: "we", ch: "我們" },
   { eng: "it", ch: "它、牠" },
-  { eng: "they", ch: "他們、她們、它們" }
+  { eng: "they", ch: "他們、她們、它們" },
+  { eng: "house", ch: "房子(n.)" },
+  { eng: "car", ch: "車子(n.)" },
+  { eng: "table", ch: "桌子(n.)" },
+  { eng: "chair", ch: "椅子(n.)" },
 ];
 
 // 2. 遊戲狀態與記錄變數
